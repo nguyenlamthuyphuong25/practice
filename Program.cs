@@ -13,13 +13,13 @@ namespace CSharpD02
             Console.WriteLine("Substring start with \"j\", end with \"r\" is {0}", str.Substring(str.IndexOf("j"), str.IndexOf("r") - str.IndexOf("j") + 1));
             Console.WriteLine("Replace \"dog\" by \"cat\", string now is {0}", str.Replace("dog", "cat"));
             string[] splitStrs = str.Split(' ');
-            Console.WriteLine("Question 7 answer is ");
+            Console.WriteLine("Question 7: ");
             foreach (var slitStr in splitStrs)
             {
                 Console.Write($"{slitStr}" + ",");
             }
             Console.WriteLine("");
-            Console.WriteLine("Question 8 answer is ");
+            Console.WriteLine("Question 8: ");
             foreach (var slitStr in splitStrs)
             {
                 Console.Write($"\"{slitStr}\"" + ",");

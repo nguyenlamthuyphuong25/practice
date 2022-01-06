@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Study\\CODE PRN\\CSharpD02\\CSharpD02\\CSharpD02.csproj": {}
+    "D:\\Study\\CODE_PRN\\CSharpD02\\CSharpD02\\CSharpD02.csproj": {}
   },
   "projects": {
-    "D:\\Study\\CODE PRN\\CSharpD02\\CSharpD02\\CSharpD02.csproj": {
+    "D:\\Study\\CODE_PRN\\CSharpD02\\CSharpD02\\CSharpD02.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Study\\CODE PRN\\CSharpD02\\CSharpD02\\CSharpD02.csproj",
+        "projectUniqueName": "D:\\Study\\CODE_PRN\\CSharpD02\\CSharpD02\\CSharpD02.csproj",
         "projectName": "CSharpD02",
-        "projectPath": "D:\\Study\\CODE PRN\\CSharpD02\\CSharpD02\\CSharpD02.csproj",
+        "projectPath": "D:\\Study\\CODE_PRN\\CSharpD02\\CSharpD02\\CSharpD02.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\Study\\CODE PRN\\CSharpD02\\CSharpD02\\obj\\",
+        "outputPath": "D:\\Study\\CODE_PRN\\CSharpD02\\CSharpD02\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
