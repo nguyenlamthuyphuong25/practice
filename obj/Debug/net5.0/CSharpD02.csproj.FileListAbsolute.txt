@@ -1,0 +1,16 @@
+D:\Study\CODE PRN\CSharpD02\CSharpD02\bin\Debug\net5.0\CSharpD02.exe
+D:\Study\CODE PRN\CSharpD02\CSharpD02\bin\Debug\net5.0\CSharpD02.deps.json
+D:\Study\CODE PRN\CSharpD02\CSharpD02\bin\Debug\net5.0\CSharpD02.runtimeconfig.json
+D:\Study\CODE PRN\CSharpD02\CSharpD02\bin\Debug\net5.0\CSharpD02.runtimeconfig.dev.json
+D:\Study\CODE PRN\CSharpD02\CSharpD02\bin\Debug\net5.0\CSharpD02.dll
+D:\Study\CODE PRN\CSharpD02\CSharpD02\bin\Debug\net5.0\ref\CSharpD02.dll
+D:\Study\CODE PRN\CSharpD02\CSharpD02\bin\Debug\net5.0\CSharpD02.pdb
+D:\Study\CODE PRN\CSharpD02\CSharpD02\obj\Debug\net5.0\CSharpD02.csproj.AssemblyReference.cache
+D:\Study\CODE PRN\CSharpD02\CSharpD02\obj\Debug\net5.0\CSharpD02.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\CODE PRN\CSharpD02\CSharpD02\obj\Debug\net5.0\CSharpD02.AssemblyInfoInputs.cache
+D:\Study\CODE PRN\CSharpD02\CSharpD02\obj\Debug\net5.0\CSharpD02.AssemblyInfo.cs
+D:\Study\CODE PRN\CSharpD02\CSharpD02\obj\Debug\net5.0\CSharpD02.csproj.CoreCompileInputs.cache
+D:\Study\CODE PRN\CSharpD02\CSharpD02\obj\Debug\net5.0\CSharpD02.dll
+D:\Study\CODE PRN\CSharpD02\CSharpD02\obj\Debug\net5.0\ref\CSharpD02.dll
+D:\Study\CODE PRN\CSharpD02\CSharpD02\obj\Debug\net5.0\CSharpD02.pdb
+D:\Study\CODE PRN\CSharpD02\CSharpD02\obj\Debug\net5.0\CSharpD02.genruntimeconfig.cache
